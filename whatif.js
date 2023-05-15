@@ -13,12 +13,12 @@ while (true) {
 
     if (name.length > 0) {
         alert("Hi there " + name + "!");
-        alert("What if aminin ko sa'yo na gusto kita?")
-        alert("Gugustuhin mo rin ba ako pabalik?");
-        alert("This is the only way na alam ko para umamin sa'yo");
-        alert("I'm too shy to approach you kasi HAHAHA")
-        alert("Ikaw na bahala magfirst move ha!")
-        alert("Hintayin ko nalang chat mo")
+        alert("Happy 18th Birthday!")
+        alert("You're officially an adult");
+        alert("Ang masasabi ko lang is mag-aral ka ng mabuti");
+        alert("Fulfill your dreams")
+        alert("But don't forget to have some time to relax")
+        alert("Once again, happy happy birthday!")
         main.style.display = "block";
         break;
     }
